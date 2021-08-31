@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ChuckNorris-API/static/css/main.7c28b25b.chunk.css",
+    "main.js": "/ChuckNorris-API/static/js/main.84b9d195.chunk.js",
+    "main.js.map": "/ChuckNorris-API/static/js/main.84b9d195.chunk.js.map",
+    "runtime~main.js": "/ChuckNorris-API/static/js/runtime~main.8d6dd2b2.js",
+    "runtime~main.js.map": "/ChuckNorris-API/static/js/runtime~main.8d6dd2b2.js.map",
+    "static/css/2.79fd74fd.chunk.css": "/ChuckNorris-API/static/css/2.79fd74fd.chunk.css",
+    "static/js/2.d6c27a3f.chunk.js": "/ChuckNorris-API/static/js/2.d6c27a3f.chunk.js",
+    "static/js/2.d6c27a3f.chunk.js.map": "/ChuckNorris-API/static/js/2.d6c27a3f.chunk.js.map",
+    "index.html": "/ChuckNorris-API/index.html",
+    "precache-manifest.a1013b5a750418b279117dc8f2811d07.js": "/ChuckNorris-API/precache-manifest.a1013b5a750418b279117dc8f2811d07.js",
+    "service-worker.js": "/ChuckNorris-API/service-worker.js",
+    "static/css/2.79fd74fd.chunk.css.map": "/ChuckNorris-API/static/css/2.79fd74fd.chunk.css.map",
+    "static/css/main.7c28b25b.chunk.css.map": "/ChuckNorris-API/static/css/main.7c28b25b.chunk.css.map",
+    "static/media/chuck.png": "/ChuckNorris-API/static/media/chuck.4c845d86.png"
+  }
+}
